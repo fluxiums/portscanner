@@ -2,9 +2,6 @@ import socket # for connecting
 
 # some colors
 init()
-GREEN = Fore.GREEN
-RESET = Fore.RESET
-GRAY = Fore.LIGHTBLACK_EX
 
 def is_port_open(host, port):
     """
