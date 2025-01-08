@@ -1,8 +1,5 @@
 import socket # for connecting
 
-# some colors
-init()
-
 def is_port_open(host, port):
     """
     determine whether `host` has the `port` open
