@@ -1,5 +1,4 @@
 import socket # for connecting
-from colorama import init, Fore
 
 # some colors
 init()
