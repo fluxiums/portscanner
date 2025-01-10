@@ -16,7 +16,7 @@ usage: fast_port_scanner.py [-h] [--ports PORT_RANGE] host
 Simple port scanner
 
 positional arguments:
-host                  Host to scan.
+host                  Host to scan
 
 optional arguments:
 -h, --help            show this help message and exit
