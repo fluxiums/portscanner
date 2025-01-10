@@ -35,4 +35,4 @@ for port in range(1, 1025):
         print(f"{GREEN}[+] {host}:{port} is open      {RESET}")
     else:
         print(f"{GRAY}[!] {host}:{port} is closed    {RESET}", end="\r")
-        print(f"{GRAY}[!] {host}:{port} is closed    {RESET}", end="\r")
+        
