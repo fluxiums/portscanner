@@ -29,4 +29,3 @@ for port in range(1, 1025):
         print(f"[+] {host}:{port} is open      ")
     else:
         print(f"[!] {host}:{port} is closed    ", end="\r")
-
